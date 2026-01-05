@@ -1,0 +1,14 @@
+{
+  "name": "nft-contract-task",
+  "version": "1.0.0",
+  "description": "ERC-721 NFT Collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.8.0",
+    "hardhat": "^2.12.0"
+  }
+}
